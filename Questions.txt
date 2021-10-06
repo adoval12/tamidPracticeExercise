@@ -1,0 +1,29 @@
+Question 1
+Use read_csv function to read from the myBoys.csv file and print out the resulting data frame 
+
+Question 2
+print out a single column of the dataFrame 
+
+Question 3
+The age column was processed incorrectly. increase each element of the age column by 5
+
+Question 4
+The years of the students are:
+- Brad Pitt - Senior
+- Rick Sanchez - Senior 
+- Lebron James - Junior 
+- Childish Gambino - Junior 
+- Morty Smith - Sophmore
+Create a new column where the years appear for each student 
+
+Question 5
+Create a new column that shows the age in dog years of each student. Use the lambda function approach 
+hint: you can caculate dog years by human years by 7
+
+Question 6 
+Create a new column that shows the school of each student 
+Use a function approach
+
+Question 7 
+Write the edited dataframe to a new csv file 
+hint: google it
